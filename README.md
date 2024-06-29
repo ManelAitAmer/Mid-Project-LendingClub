@@ -69,3 +69,10 @@ The histogram shows the frequency of loan amounts in different bins. This can he
 <img width="945" alt="Screenshot 2024-06-08 at 09 14 13" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/ce0159c7-dc5a-47d6-908f-27e5b6eb0a04">
 
 <img width="996" alt="Screenshot 2024-06-08 at 09 15 09" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/c478deee-5ce1-4ae0-adf0-c9f55ba4f04d">
+
+**Violin Plots** : 
+violin plot, which combines aspects of a box plot and a KDE plot. It shows the distribution of the data across different categories.
+
+The width of the shape at different y-values indicates the density of data points at that loan amount.
+
+This plot is particularly useful for comparing the distributions of loan amounts across different purposes and identifying any patterns or anomalies in the data.
