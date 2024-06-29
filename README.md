@@ -45,3 +45,9 @@ For Data Vizualization , we will Use Histograms and Boxplots with and without ou
 <img width="487" alt="Screenshot 2024-06-08 at 08 53 02" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/d4fd4ed2-e0a3-419d-8c74-7be1f6556325">
 
 <img width="479" alt="Screenshot 2024-06-08 at 08 53 42" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/c13d5014-ddd8-4782-88f4-852115169bd1">
+
+
+This plot is used to visualize the distribution of **loan_amount** within the **loan_data** dataset.
+
+The histogram shows the frequency of loan amounts in different bins. This can help in understanding the central tendency, spread, and shape of the loan amount distribution.
+
