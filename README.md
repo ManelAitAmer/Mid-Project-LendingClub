@@ -7,3 +7,14 @@
 A ***Lending Club*** is a platform that allows individuals to lend to other individuals.This could be for various purposes such as debt consolidation, home improvement, education, or small business funding.
 
 They provide an alternative to traditional banking channels by leveraging technology to streamline the lending process and offer potentially better rates for both borrowers and investors.
+
+## DATABASE:
+
+The Database is from Kaggle : (https://www.kaggle.com/datasets/joebeachcapital/lending-club/data).
+
+This data set represents 10,000 thousands of loans made through the Lending Club platform , with 55 variables. 
+
+To make this date more cleare and studiable , I cleaned it by : 
+
+- Dropping Nans :wastebasket: .
+
