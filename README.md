@@ -34,7 +34,7 @@ Data passed from 55 columns to 29 columns.
 
 ## Data Vizualization :bar_chart: :
 
-For Data Vizualization , we will Use Histograms , Boxplots , KDE plots , Frequency counts , violin plots :
+For Data Vizualization , we will Use Histograms and Boxplots with and without outliers , but I will only put here we will only see the  without outliers; KDE plots , Frequency counts , violin plots :
 
 <img width="1011" alt="Screenshot 2024-06-08 at 08 55 20" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/e30e15ab-8b9c-4bc2-8c2b-00a1888ce82b">
 
