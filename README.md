@@ -59,3 +59,13 @@ The histogram shows the frequency of loan amounts in different bins. This can he
 
 <img width="903" alt="Screenshot 2024-06-08 at 09 07 05" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/755c0db0-e066-4c75-959c-74200905d6cc">
 <img width="958" alt="Screenshot 2024-06-08 at 09 07 39" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/9d770e7a-68d7-4de7-b604-512adf6994fb">
+
+## Other vizualization: 
+
+<img width="982" alt="Screenshot 2024-06-08 at 09 11 56" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/59dd43e4-b1dc-4086-a1e8-03e8f470b1f5">
+
+<img width="962" alt="Screenshot 2024-06-08 at 09 13 30" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/858cacc3-5c02-40b6-bb80-e82b06d31853">
+
+<img width="945" alt="Screenshot 2024-06-08 at 09 14 13" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/ce0159c7-dc5a-47d6-908f-27e5b6eb0a04">
+
+<img width="996" alt="Screenshot 2024-06-08 at 09 15 09" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/c478deee-5ce1-4ae0-adf0-c9f55ba4f04d">
