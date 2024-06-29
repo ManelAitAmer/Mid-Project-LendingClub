@@ -76,3 +76,5 @@ violin plot, which combines aspects of a box plot and a KDE plot. It shows the d
 The width of the shape at different y-values indicates the density of data points at that loan amount.
 
 This plot is particularly useful for comparing the distributions of loan amounts across different purposes and identifying any patterns or anomalies in the data.
+
+<img width="994" alt="Screenshot 2024-06-08 at 09 16 14" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/665d9b19-b029-4a98-a9a0-e4b980e9e624">
