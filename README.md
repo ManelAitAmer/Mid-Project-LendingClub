@@ -35,3 +35,12 @@ Data passed from 55 columns to 29 columns.
 ## Data Vizualization :bar_chart: :
 
 For Data Vizualization , we will Use Histograms , Boxplots , KDE plots , Frequency counts , violin plots :
+
+<img width="1003" alt="Screenshot 2024-06-08 at 08 43 12" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/d7684cf6-cbcc-45e8-9922-3fabcff82889">
+
+<img width="1005" alt="Screenshot 2024-06-08 at 08 43 59" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/6bfbbd7a-3d4d-4e31-afef-1b1d438e160f">
+
+<img width="1000" alt="Screenshot 2024-06-08 at 08 51 59" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/1feb73d8-3d70-453f-914b-265a515572a6">
+
+<img width="487" alt="Screenshot 2024-06-08 at 08 53 02" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/d4fd4ed2-e0a3-419d-8c74-7be1f6556325">
+<img width="479" alt="Screenshot 2024-06-08 at 08 53 42" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/c13d5014-ddd8-4782-88f4-852115169bd1">
