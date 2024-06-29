@@ -29,3 +29,9 @@ The correlation Matrix-Heatmap , helped for cleaning the data.
 **Final Correlation Matrix-Heatmap Plot:**
 
 <img width="1005" alt="Screenshot 2024-06-08 at 08 34 49" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/78cf60c8-046e-4421-92cc-bf42d1ed4923">
+
+Data passed from 55 columns to 29 columns.
+
+## Data Vizualization :bar_chart: :
+
+For Data Vizualization , we will Use Histograms 
