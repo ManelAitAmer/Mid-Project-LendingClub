@@ -21,5 +21,7 @@ To make this date more cleare and studiable , I cleaned it by :
 - Replacing some information to make the data more clear (will help for visualization) :open_book:.
 
 The correlation Matrix-Heatmap , helped for cleaning the data.
+
 **First Correlation Matrix-Heatmap Plot:**
+<img width="1000" alt="Screenshot 2024-06-08 at 08 26 49" src="https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/26a8011d-521a-4f16-bcc1-ac8e43f26f9b">
 
