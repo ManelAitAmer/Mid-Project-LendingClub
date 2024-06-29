@@ -17,4 +17,9 @@ This data set represents 10,000 thousands of loans made through the Lending Club
 To make this date more cleare and studiable , I cleaned it by : 
 
 - Dropping Nans :wastebasket: .
+- Checking duplicates and spaces :paperclips:.
+- Replacing some information to make the data more clear (will help for visualization) :open_book:.
+
+The correlation Matrix-Heatmap , helped for cleaning the data.
+**First Correlation Matrix-Heatmap Plot:**
 
