@@ -2,7 +2,7 @@
 
 ![LC-Logo-Official-min](https://github.com/ManelAitAmer/Mid-Project-LendingClub/assets/160795377/317be1d3-b413-481a-816c-6a6a6bc8f252)
 
-## Definition of a LendingClub:
+## Definition of a LendingClub :pushpin::
 
 A ***Lending Club*** is a platform that allows individuals to lend to other individuals.This could be for various purposes such as debt consolidation, home improvement, education, or small business funding.
 
@@ -34,4 +34,4 @@ Data passed from 55 columns to 29 columns.
 
 ## Data Vizualization :bar_chart: :
 
-For Data Vizualization , we will Use Histograms 
+For Data Vizualization , we will Use Histograms , Boxplots , KDE plots , Frequency counts , violin plots :
